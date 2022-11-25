@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development & UI/UX Design.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me ...
+
 
 <!---
 htpathirana/htpathirana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
